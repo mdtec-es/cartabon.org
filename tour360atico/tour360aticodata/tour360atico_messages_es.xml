@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+
+  <data name="es_project_title"><![CDATA[TourAticoChili]]></data>
+
+
+
+  <data name="es_pano13_title"><![CDATA[Hall entrada]]></data>
+  <data name="es_spotpoint28_tooltip"><![CDATA[Hall]]></data>
+  <data name="es_spotpoint29_tooltip"><![CDATA[Bano]]></data>
+  <data name="es_spotpoint30_tooltip"><![CDATA[Comedor]]></data>
+  <data name="es_spotpoint31_tooltip"><![CDATA[Cocina]]></data>
+  <data name="es_spotpoint51_tooltip"><![CDATA[Altillo]]></data>
+
+
+  <data name="es_pano10_title"><![CDATA[Bano]]></data>
+  <data name="es_spotpoint48_tooltip"><![CDATA[Hall entrada]]></data>
+
+
+  <data name="es_pano14_title"><![CDATA[Hall]]></data>
+  <data name="es_spotpoint33_tooltip"><![CDATA[Habitacion principal]]></data>
+  <data name="es_spotpoint36_tooltip"><![CDATA[Altillo]]></data>
+  <data name="es_spotpoint41_tooltip"><![CDATA[Terraza]]></data>
+  <data name="es_spotpoint50_tooltip"><![CDATA[Hall entrada]]></data>
+
+
+  <data name="es_pano12_title"><![CDATA[Habitacion principal]]></data>
+  <data name="es_spotpoint49_tooltip"><![CDATA[Hall]]></data>
+
+
+  <data name="es_pano18_title"><![CDATA[Terraza]]></data>
+  <data name="es_spotpoint42_tooltip"><![CDATA[Hall]]></data>
+
+
+  <data name="es_pano15_title"><![CDATA[Comedor]]></data>
+  <data name="es_spotpoint45_tooltip"><![CDATA[Cocina]]></data>
+  <data name="es_spotpoint46_tooltip"><![CDATA[Hall entrada]]></data>
+  <data name="es_spotpoint47_tooltip"><![CDATA[Altillo]]></data>
+
+
+  <data name="es_pano11_title"><![CDATA[Cocina]]></data>
+  <data name="es_spotpoint43_tooltip"><![CDATA[Hall entrada]]></data>
+  <data name="es_spotpoint44_tooltip"><![CDATA[Comedor]]></data>
+
+
+  <data name="es_pano16_title"><![CDATA[Altillo]]></data>
+  <data name="es_spotpoint37_tooltip"><![CDATA[Terraza]]></data>
+  <data name="es_spotpoint38_tooltip"><![CDATA[Altillo]]></data>
+  <data name="es_spotpoint52_tooltip"><![CDATA[Hall entrada]]></data>
+
+
+  <data name="es_pano17_title"><![CDATA[Altillo]]></data>
+  <data name="es_spotpoint39_tooltip"><![CDATA[Altillo]]></data>
+  <data name="es_spotpoint40_tooltip"><![CDATA[Comedor]]></data>
+
+
+
+
+	<data name="es_project_floor_title"><![CDATA[TourAticoChili]]></data>
+	<data name="es_spotmap123_tooltip"><![CDATA[Altillo]]></data>
+	<data name="es_spotmap124_tooltip"><![CDATA[Altillo]]></data>
+	<data name="es_spotmap125_tooltip"><![CDATA[Hall entrada]]></data>
+	<data name="es_spotmap126_tooltip"><![CDATA[Cocina]]></data>
+	<data name="es_spotmap127_tooltip"><![CDATA[Comedor]]></data>
+	<data name="es_spotmap128_tooltip"><![CDATA[Habitacion principal]]></data>
+	<data name="es_spotmap129_tooltip"><![CDATA[Hall]]></data>
+	<data name="es_spotmap130_tooltip"><![CDATA[Bano]]></data>
+	<data name="es_spotmap131_tooltip"><![CDATA[Terraza]]></data>
+
+
+  <data name="es_prevnexttheme1prevSceneTip"><![CDATA[Escena anterior]]></data>
+  <data name="es_prevnexttheme1nextSceneTip"><![CDATA[Escena siguiente]]></data>
+  <data name="es_controlBar_iopenFsTip"><![CDATA[Introducir Pantalla Completa]]></data>
+  <data name="es_controlBar_icloseFsTip"><![CDATA[Salir de Pantalla completa]]></data>
+  <data name="es_controlBar_iautorotateOnTip"><![CDATA[Iniciar la rotación automática]]></data>
+  <data name="es_controlBar_iautorotateOffTip"><![CDATA[Detener la Rotación Automática]]></data>
+  <data name="es_controlBar_idisplayFloorplanTip"><![CDATA[Mostrar Plano]]></data>
+  <data name="es_controlBar_ihideFloorplanTip"><![CDATA[Ocultar Plano]]></data>
+  <data name="es_controlBar_ienterVRTip"><![CDATA[Modo VR]]></data>
+  <data name="es_controlBar_ienterVRNotTip"><![CDATA[El modo VR no está disponible ]]></data>
+  <data name="es_controlBar_idisplayControlsTip"><![CDATA[Mostrar Controles]]></data>
+  <data name="es_controlBar_ihideControlsTip"><![CDATA[Ocultar los Controles]]></data>
+  <data name="es_floorPlandisplay_close_text"><![CDATA[Close]]></data>
+
+
+  <data name="es_vr_setup_hmd0"><![CDATA[SELECCIONE SU HMD]]></data>
+  <data name="es_vr_setup_advanced"><![CDATA[CONFIGURACIÓN AVANZADA]]></data>
+  <data name="es_vr_setup_title"><![CDATA[CONFIGURACIÓN WEB VR]]></data>
+  <data name="es_vr_setup_dvn1"><![CDATA[Dispositivo:]]></data>
+  <data name="es_vr_setup_siz1"><![CDATA[Tamaño de pantalla:]]></data>
+  <data name="es_vr_setup_ipd1"><![CDATA[IPD:]]></data>
+  <data name="es_vr_setup_hmd1"><![CDATA[HMD:]]></data>
+  <data name="es_vr_setup_hmd3"><![CDATA[Personalizar]]></data>
+  <data name="es_vr_setup_cal"><![CDATA[Calibrar el giroscopio]]></data>
+  <data name="es_vr_setup_sav"><![CDATA[GUARDAR]]></data>
+  <data name="es_vr_setup_rst"><![CDATA[REINICIO]]></data>
+  <data name="es_vr_setup_simple"><![CDATA[SIMPLE]]></data>
+  <data name="es_vr_setup_cls"><![CDATA[CERRAR]]></data>
+  <data name="es_vr_setup_m31"><![CDATA[CONFIGURACIÓN HMD]]></data>
+  <data name="es_vr_setup_fov1"><![CDATA[FOV:]]></data>
+  <data name="es_vr_setup_dst1"><![CDATA[Distorsión:]]></data>
+  <data name="es_vr_setup_d2tx"><![CDATA[Distorsión 2:]]></data>
+  <data name="es_vr_setup_vig1"><![CDATA[Viñeteado:]]></data>
+  <data name="es_vr_setup_cac1"><![CDATA[Aberración cromática:]]></data>
+  <data name="es_vr_setup_olp1"><![CDATA[Superposición:]]></data>
+  <data name="es_vr_setup_m35"><![CDATA[RETORNO]]></data>
+  <data name="es_vr_setup_cb1"><![CDATA[GIROSCOPIO]]></data>
+  <data name="es_vr_setup_cb2"><![CDATA[Coloque el dispositivo sobre una superficie plana y [br ] y estable y pulse CALIBRAR[br] para corregir la deriva del giroscopio.]]></data>
+  <data name="es_vr_setup_cb3"><![CDATA[CALIBRAR]]></data>
+  <data name="es_vr_setup_cb4"><![CDATA[REINICIO]]></data>
+  <data name="es_vr_setup_cb5"><![CDATA[RETORNO]]></data>
+  <data name="es_vr_setup_cb6"><![CDATA[Calibrando...]]></data>
+  <data name="es_vr_setup_cb7"><![CDATA[Calibración exitosa]]></data>
+  <data name="es_vr_setup_cb8"><![CDATA[Calibración fracasada]]></data>
+  <data name="es_vr_setup_unavailable"><![CDATA[El modo VR no está disponible en tu dispositivo]]></data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</krpano>
